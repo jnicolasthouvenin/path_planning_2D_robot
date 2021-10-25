@@ -1,1 +1,4 @@
-# path_planning_2D_robot
+
+<code>$ cd src</code>
+
+<code>$ python3 main.py</code>
